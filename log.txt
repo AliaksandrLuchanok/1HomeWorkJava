@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-15T20:36:49.216360700Z</date>
+  <millis>1686861409216</millis>
+  <nanos>360700</nanos>
+  <sequence>0</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>59</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.443378800Z</date>
+  <millis>1686861409443</millis>
+  <nanos>378800</nanos>
+  <sequence>1</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>41</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.445385800Z</date>
+  <millis>1686861409445</millis>
+  <nanos>385800</nanos>
+  <sequence>2</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>41</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.448381800Z</date>
+  <millis>1686861409448</millis>
+  <nanos>381800</nanos>
+  <sequence>3</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>4</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.451349700Z</date>
+  <millis>1686861409451</millis>
+  <nanos>349700</nanos>
+  <sequence>4</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>4</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.454353300Z</date>
+  <millis>1686861409454</millis>
+  <nanos>353300</nanos>
+  <sequence>5</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>4</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.457353900Z</date>
+  <millis>1686861409457</millis>
+  <nanos>353900</nanos>
+  <sequence>6</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>4</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.460349Z</date>
+  <millis>1686861409460</millis>
+  <nanos>349000</nanos>
+  <sequence>7</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>4</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.463347900Z</date>
+  <millis>1686861409463</millis>
+  <nanos>347900</nanos>
+  <sequence>8</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>4</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.465351100Z</date>
+  <millis>1686861409465</millis>
+  <nanos>351100</nanos>
+  <sequence>9</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>59</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.467382500Z</date>
+  <millis>1686861409467</millis>
+  <nanos>382500</nanos>
+  <sequence>10</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>47</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.469384800Z</date>
+  <millis>1686861409469</millis>
+  <nanos>384800</nanos>
+  <sequence>11</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>41</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.471384300Z</date>
+  <millis>1686861409471</millis>
+  <nanos>384300</nanos>
+  <sequence>12</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>30</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.473383900Z</date>
+  <millis>1686861409473</millis>
+  <nanos>383900</nanos>
+  <sequence>13</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>6</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.475347800Z</date>
+  <millis>1686861409475</millis>
+  <nanos>347800</nanos>
+  <sequence>14</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>6</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.478349500Z</date>
+  <millis>1686861409478</millis>
+  <nanos>349500</nanos>
+  <sequence>15</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>6</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.480349Z</date>
+  <millis>1686861409480</millis>
+  <nanos>349000</nanos>
+  <sequence>16</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>6</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.482385Z</date>
+  <millis>1686861409482</millis>
+  <nanos>385000</nanos>
+  <sequence>17</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>59</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.484349900Z</date>
+  <millis>1686861409484</millis>
+  <nanos>349900</nanos>
+  <sequence>18</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>47</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.498347600Z</date>
+  <millis>1686861409498</millis>
+  <nanos>347600</nanos>
+  <sequence>19</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>41</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.500347100Z</date>
+  <millis>1686861409500</millis>
+  <nanos>347100</nanos>
+  <sequence>20</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>30</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.502383100Z</date>
+  <millis>1686861409502</millis>
+  <nanos>383100</nanos>
+  <sequence>21</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>30</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.504349900Z</date>
+  <millis>1686861409504</millis>
+  <nanos>349900</nanos>
+  <sequence>22</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>30</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.506348500Z</date>
+  <millis>1686861409506</millis>
+  <nanos>348500</nanos>
+  <sequence>23</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>30</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.508348Z</date>
+  <millis>1686861409508</millis>
+  <nanos>348000</nanos>
+  <sequence>24</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>59</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.510382200Z</date>
+  <millis>1686861409510</millis>
+  <nanos>382200</nanos>
+  <sequence>25</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>47</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.512380700Z</date>
+  <millis>1686861409512</millis>
+  <nanos>380700</nanos>
+  <sequence>26</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>41</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.514348500Z</date>
+  <millis>1686861409514</millis>
+  <nanos>348500</nanos>
+  <sequence>27</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>41</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.516382600Z</date>
+  <millis>1686861409516</millis>
+  <nanos>382600</nanos>
+  <sequence>28</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>41</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.518384900Z</date>
+  <millis>1686861409518</millis>
+  <nanos>384900</nanos>
+  <sequence>29</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>41</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.520348Z</date>
+  <millis>1686861409520</millis>
+  <nanos>348000</nanos>
+  <sequence>30</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>59</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.521350100Z</date>
+  <millis>1686861409521</millis>
+  <nanos>350100</nanos>
+  <sequence>31</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>47</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.524349800Z</date>
+  <millis>1686861409524</millis>
+  <nanos>349800</nanos>
+  <sequence>32</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>47</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.526349400Z</date>
+  <millis>1686861409526</millis>
+  <nanos>349400</nanos>
+  <sequence>33</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>47</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.530349400Z</date>
+  <millis>1686861409530</millis>
+  <nanos>349400</nanos>
+  <sequence>34</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>47</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.534355Z</date>
+  <millis>1686861409534</millis>
+  <nanos>355000</nanos>
+  <sequence>35</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>59</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.536385400Z</date>
+  <millis>1686861409536</millis>
+  <nanos>385400</nanos>
+  <sequence>36</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>59</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.539349600Z</date>
+  <millis>1686861409539</millis>
+  <nanos>349600</nanos>
+  <sequence>37</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>50</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.542349300Z</date>
+  <millis>1686861409542</millis>
+  <nanos>349300</nanos>
+  <sequence>38</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>50</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.545350Z</date>
+  <millis>1686861409545</millis>
+  <nanos>350000</nanos>
+  <sequence>39</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>69</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.547352400Z</date>
+  <millis>1686861409547</millis>
+  <nanos>352400</nanos>
+  <sequence>40</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>59</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.570349300Z</date>
+  <millis>1686861409570</millis>
+  <nanos>349300</nanos>
+  <sequence>41</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>59</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.574348300Z</date>
+  <millis>1686861409574</millis>
+  <nanos>348300</nanos>
+  <sequence>42</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>69</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.581349Z</date>
+  <millis>1686861409581</millis>
+  <nanos>349000</nanos>
+  <sequence>43</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>69</message>
+</record>
+<record>
+  <date>2023-06-15T20:36:49.588348800Z</date>
+  <millis>1686861409588</millis>
+  <nanos>348800</nanos>
+  <sequence>44</sequence>
+  <logger>task2HomeWork2</logger>
+  <level>INFO</level>
+  <class>task2HomeWork2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>73</message>
+</record>
+</log>
